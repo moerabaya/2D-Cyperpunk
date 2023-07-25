@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2388086691
+    locked: 0
   - name: Dark Trees
     uniqueID: 1685485437
     locked: 0
